@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Selenium"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Log4j"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Axe-selenium-accessibility"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Json"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Jackson"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/pdfbox28"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Axel-selenium-accessibility/axe-selenium-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Jackson/jackson-annotations-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Jackson/jackson-core-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Jackson/jackson-databind-2.4.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Json/json-20160212.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Log4j/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Log4j/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Log4j/slf4j-simple-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/client-combined-3.5.3-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/cssparser-0.9.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/htmlunit-core-js-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/htmlunit-driver-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/jetty-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/jetty-http-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/jetty-io-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/jetty-util-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/neko-htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/websocket-api-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/websocket-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/websocket-common-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Selenium/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Excel/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/Excel/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/PDF/pdfbox-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/PDF/fontbox-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ckutac/workspace/seleniumframework/Solution/thirdparty/userlibraries/PDF/pdfbox-app-2.0.8.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
